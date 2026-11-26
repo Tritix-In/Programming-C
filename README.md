@@ -115,6 +115,41 @@ git status чист нету изменений
 
 ### добавить скриншоты (9..12)
 
+создаем файл greeting.txt 
+
+добавляем в stage и коммитим
+
+добавляем в файл hello добавляем в stage и коммитим
+
+создаем и переключаемся на ветку feature/uppercase
+
+git status показывает что в ветке нет изменений нечего коммитить
+
+отредактируем файл greeting.txt изменив hello на HELLO 
+
+добавляем в stage и коммитим 
+
+git branch показывает что мы на ветке feature/uppercase
+
+git lol показывает, что feature/uppercase на один коммит дальше чем main 
+
+переключаемся в ветку mybranch и видим что там осталась строка hello  
+
+используем git diff mybranch feature/uppercase и видим что в первой ветке hello а во второй HELLO  
+
+git merge feature/uppercase используем для того чтобы провести слияние двух веток(смержить)
+
+теперь в greeting.txt в mybranch HELLO 
+
+удаляем ветку командой git branch -d feature/uppercase
+
+переходим в main и мержим с mybranch
+
+git lol теперь показывает граф с точкой слияния в последнем коммите 
+
+и пушим на удаленный репо 
+
+### Вставить скриншоты (13..15)
 
 
 
