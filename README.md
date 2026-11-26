@@ -76,7 +76,10 @@ git push -u origin mybranch этой командой выгружаем все 
 
 переходим в main и выгружаем в GitHub
 
-### добавить скриншоты (5..8)
+![Скриншот 5](Screenshots/5screen.png)
+![Скриншот 6](Screenshots/6screen.png)
+![Скриншот 7](Screenshots/7screen.png)
+![Скриншот 8](Screenshots/8screen.png)
 
 ## на оценку 4 
 
@@ -116,7 +119,10 @@ git status чист нету изменений
 
 пушим изменения на удаленный git
 
-### добавить скриншоты (9..12)
+![Скриншот 9](Screenshots/9screen.png)
+![Скриншот 10](Screenshots/10screen.png)
+![Скриншот 11](Screenshots/11screen.png)
+![Скриншот 12](Screenshots/12screen.png)
 
 создаем файл greeting.txt 
 
@@ -152,7 +158,9 @@ git lol теперь показывает граф с точкой слияни�
 
 и пушим на удаленный репо 
 
-### Вставить скриншоты (13..15)
+![Скриншот 13](Screenshots/13screen.png)
+![Скриншот 14](Screenshots/14screen.png)
+![Скриншот 15](Screenshots/15screen.png)
 
 ## На оценку 5(часть1)
 
@@ -180,7 +188,9 @@ git lol теперь показывает граф с точкой слияни�
 
 пушим 
 
-### добавить скриншоты (16..18)
+![Скриншот 16](Screenshots/16screen.png)
+![Скриншот 17](Screenshots/17screen.png)
+![Скриншот 18](Screenshots/18screen.png)
 
 ## На оценку 5(часть2)
 
@@ -208,7 +218,8 @@ git log --oneline --graph показывает что ветки разошли�
 
 коммитим файл с решенным конфликтом и пушим на удаленный репо 
 
-### Добавить скриншоты (19..20)
+![Скриншот 19](Screenshots/19screen.png)
+![Скриншот 20](Screenshots/20screen.png)
 
 
 
