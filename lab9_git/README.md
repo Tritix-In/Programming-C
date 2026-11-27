@@ -20,10 +20,10 @@
 - добавляем в stage и коммитим
 - выгружаем в GitHub командой `git push`
 
-![Скриншот 1](lab9_git/Screenshots/1screen.png)
-![Скриншот 2](lab9_git/Screenshots/2screen.png)
-![Скриншот 3](lab9_git/Screenshots/3screen.png)
-![Скриншот 4](lab9_git/Screenshots/4screen.png)
+![Скриншот 1](Screenshots/1screen.png)
+![Скриншот 2](Screenshots/2screen.png)
+![Скриншот 3](Screenshots/3screen.png)
+![Скриншот 4](Screenshots/4screen.png)
 
 ## Ветки
 
@@ -45,10 +45,10 @@
 - `git push -u origin mybranch` этой командой выгружаем все в удаленный репо и создаем там ветку `mybranch`
 - переходим в `main` и выгружаем в GitHub
 
-![Скриншот 5](lab9_git/Screenshots/5screen.png)
-![Скриншот 6](lab9_git/Screenshots/6screen.png)
-![Скриншот 7](lab9_git/Screenshots/7screen.png)
-![Скриншот 8](lab9_git/Screenshots/8screen.png)
+![Скриншот 5](Screenshots/5screen.png)
+![Скриншот 6](Screenshots/6screen.png)
+![Скриншот 7](Screenshots/7screen.png)
+![Скриншот 8](Screenshots/8screen.png)
 
 ## на оценку 4
 
@@ -71,10 +71,10 @@
 - `git status` чист нету изменений
 - пушим изменения на удаленный git
 
-![Скриншот 9](lab9_git/Screenshots/9screen.png)
-![Скриншот 10](lab9_git/Screenshots/10screen.png)
-![Скриншот 11](lab9_git/Screenshots/11screen.png)
-![Скриншот 12](lab9_git/Screenshots/12screen.png)
+![Скриншот 9](Screenshots/9screen.png)
+![Скриншот 10](Screenshots/10screen.png)
+![Скриншот 11](Screenshots/11screen.png)
+![Скриншот 12](Screenshots/12screen.png)
 
 - создаем файл `greeting.txt`
 - добавляем в stage и коммитим
@@ -94,9 +94,9 @@
 - `git lol` теперь показывает граф с точкой слияния в последнем коммите
 - и пушим на удаленный репо
 
-![Скриншот 13](lab9_git/Screenshots/13screen.png)
-![Скриншот 14](lab9_git/Screenshots/14screen.png)
-![Скриншот 15](lab9_git/Screenshots/15screen.png)
+![Скриншот 13](Screenshots/13screen.png)
+![Скриншот 14](Screenshots/14screen.png)
+![Скриншот 15](Screenshots/15screen.png)
 
 ## На оценку 5(часть1)
 
@@ -113,9 +113,9 @@
 - используем `git log --oneline --graph` и видим merge-коммит
 - пушим
 
-![Скриншот 16](lab9_git/Screenshots/16screen.png)
-![Скриншот 17](lab9_git/Screenshots/17screen.png)
-![Скриншот 18](lab9_git/Screenshots/18screen.png)
+![Скриншот 16](Screenshots/16screen.png)
+![Скриншот 17](Screenshots/17screen.png)
+![Скриншот 18](Screenshots/18screen.png)
 
 ## На оценку 5(часть2)
 
@@ -132,5 +132,5 @@
 - открываем вс код и выбираем какую из версий оставить
 - коммитим файл с решенным конфликтом и пушим на удаленный репо
 
-![Скриншот 19](lab9_git/Screenshots/19screen.png)
-![Скриншот 20](lab9_git/Screenshots/20screen.png)
+![Скриншот 19](Screenshots/19screen.png)
+![Скриншот 20](Screenshots/20screen.png)
